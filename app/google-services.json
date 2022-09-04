@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15939394943",
+    "project_id": "mywikisuculents",
+    "storage_bucket": "mywikisuculents.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15939394943:android:1dd3cc45cb3bf421718e4a",
+        "android_client_info": {
+          "package_name": "com.example.projetotdsanajoao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15939394943-2ug768g7mo79qddkuu7plq1s9r7vmitv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCggxxTYeYBrFkGQO8FysH1fNj1dDMw2Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15939394943-2ug768g7mo79qddkuu7plq1s9r7vmitv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
